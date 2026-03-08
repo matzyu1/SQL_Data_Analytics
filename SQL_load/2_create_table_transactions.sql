@@ -1,0 +1,23 @@
+CREATE TABLE transactions (
+    transaction_id NUMERIC,
+    transaction_time TIMESTAMP,
+    customer_id NUMERIC,
+    merchant_id NUMERIC,
+    account_age_days INT,
+    credit_score_band INT,
+    kyc_level INT,
+    avg_monthly_spend NUMERIC,
+    merchant_risk_score NUMERIC,
+    transaction_amount NUMERIC,
+    payment_channel TEXT,
+    device_type VARCHAR(25),
+    is_international BOOLEAN,
+    ip_risk_score NUMERIC,
+    txn_count_1h INT,
+    txn_count_24h INT,
+    failed_txn_count_24h INT,
+    geo_distance_from_last_txn NUMERIC,
+    amount_deviation_from_user_mean NUMERIC,
+    is_fraud BOOLEAN,
+    post_auth_risk_score NUMERIC
+);
