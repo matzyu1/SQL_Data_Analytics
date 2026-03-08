@@ -33,4 +33,5 @@ Mobile + Card Fraud Dominates: Card payments made on mobile devices account for 
 Digital Payments Are Frequently Targeted: UPI and wallet transactions on mobile devices also appear frequently among fraud cases, highlighting increased fraud exposure in mobile digital payment ecosystems.
 Domestic Fraud Is More Common: Most fraud transactions occur in domestic transactions rather than international ones, although international fraud still appears across multiple payment channels.
 Consistent Fraud Amount Range: The average fraud transaction amount generally falls between ~$2,100 and ~$2,400, suggesting a typical fraud transaction size regardless of payment method or device.
+*/
 
