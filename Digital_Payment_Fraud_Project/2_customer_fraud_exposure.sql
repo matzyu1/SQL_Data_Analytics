@@ -1,5 +1,5 @@
 /*
-Question: Which customers are associated with the highest number of fraudulent transactions?
+Question 2: Which customers are associated with the highest number of fraudulent transactions?
 - Aggregate transaction activity at the customer level to identify individuals linked to fraud.
 - Count the total number of transactions per customer to understand overall activity levels.
 - Calculate how many of those transactions were fraudulent by summing the fraud indicator.
